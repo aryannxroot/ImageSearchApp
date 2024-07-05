@@ -56,7 +56,7 @@ form{
 
 .search-results{
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     flex-wrap: wrap;
    /* max-width: 1200px; */
     margin:2rem 4rem;

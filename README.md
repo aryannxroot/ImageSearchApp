@@ -10,7 +10,7 @@ This project is an image search web application that fetches images from the Uns
 - Responsive Design: Ensures the application looks great on all devices.
 - Interactive UI: Displays search results dynamically without reloading the page.
   
-Getting Excited ! Check it out --->  [GPT-3](https://aryannxroot.github.io/ImageSearchApp).
+Getting Excited ! Check it out --->  [Image Search App](https://aryannxroot.github.io/ImageSearchApp).
   
 ## Installation
 

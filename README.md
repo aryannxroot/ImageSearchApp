@@ -11,6 +11,15 @@ This project is an image search web application that fetches images from the Uns
 - Interactive UI: Displays search results dynamically without reloading the page.
   
 Getting Excited ! Check it out --->  [Image Search App](https://aryannxroot.github.io/ImageSearchApp).
+
+## Screenshots
+
+### Homepage 
+![Homepage](./home.png)
+
+### Search Results
+![Avengers](./avengers.png)
+![football](./football.png)
   
 ## Installation
 

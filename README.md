@@ -18,7 +18,10 @@ Getting Excited ! Check it out --->  [Image Search App](https://aryannxroot.gith
 ![Homepage](./home.png)
 
 ### Search Results
+#### 1
 ![Avengers](./avengers.png)
+
+#### 2
 ![football](./football.png)
   
 ## Installation
